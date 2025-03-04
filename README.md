@@ -66,7 +66,9 @@ A **real-time collaborative coding platform** where multiple users can write and
 
 
 #####STILL NEED TO FIX MINOR ISSUES AND OPTIMISATION. SOME OPERATIONS WORK ON LOCAL END AND NOT YET ON WEBSITE. REMAIN PAITENT TILL FINAL ROUND.
+THIS CODE DOESNT INLCUDE FULL HOSTING AS THAT IS WITH THE DEVLOPERS RIGHTS TO USE AND PRIVATE.
 
+LINK TO THE WEBSITE-----  https://v0-coding-session-website.vercel.app/
 
 
 ---
